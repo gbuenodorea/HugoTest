@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Test Site</title>
-    <link>http://gbuenodorea.github.io/HugoTest/</link>
+    <link>https://gbuenodorea.github.io/HugoTest/</link>
     <description>Recent content on Hugo Test Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 21:55:33 -0500</lastBuildDate><atom:link href="http://gbuenodorea.github.io/HugoTest/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Sep 2020 21:55:33 -0500</lastBuildDate><atom:link href="https://gbuenodorea.github.io/HugoTest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://gbuenodorea.github.io/HugoTest/posts/my-first-post/</link>
+      <link>https://gbuenodorea.github.io/HugoTest/posts/my-first-post/</link>
       <pubDate>Tue, 15 Sep 2020 21:55:33 -0500</pubDate>
       
-      <guid>http://gbuenodorea.github.io/HugoTest/posts/my-first-post/</guid>
+      <guid>https://gbuenodorea.github.io/HugoTest/posts/my-first-post/</guid>
       <description>Hello World!</description>
     </item>
     

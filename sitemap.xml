@@ -3,26 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://gbuenodorea.github.io/HugoTest/</loc>
+    <loc>https://gbuenodorea.github.io/HugoTest/</loc>
     <lastmod>2020-09-15T21:55:33-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://gbuenodorea.github.io/HugoTest/posts/my-first-post/</loc>
+    <loc>https://gbuenodorea.github.io/HugoTest/posts/my-first-post/</loc>
     <lastmod>2020-09-15T21:55:33-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://gbuenodorea.github.io/HugoTest/posts/</loc>
+    <loc>https://gbuenodorea.github.io/HugoTest/posts/</loc>
     <lastmod>2020-09-15T21:55:33-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://gbuenodorea.github.io/HugoTest/categories/</loc>
+    <loc>https://gbuenodorea.github.io/HugoTest/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://gbuenodorea.github.io/HugoTest/tags/</loc>
+    <loc>https://gbuenodorea.github.io/HugoTest/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
